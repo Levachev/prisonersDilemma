@@ -1,0 +1,6 @@
+At the start of the program, the following command line arguments are given :
+	a) Three (or more - for tournament mode) names of competing strategies.
+	b) Mode name --mode=[detailed|fast|tournament] (optional, 
+	default - detailed for three strategies, tournament for >3 strategies)
+	c) Number of simulation steps --steps=<n> (optional).
+If you do not follow the rules, the program will not work
